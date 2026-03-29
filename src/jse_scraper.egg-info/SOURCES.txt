@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/jse_scraper/__init__.py
-src/jse_scraper/scraper.py
-src/jse_scraper.egg-info/PKG-INFO
-src/jse_scraper.egg-info/SOURCES.txt
-src/jse_scraper.egg-info/dependency_links.txt
-src/jse_scraper.egg-info/requires.txt
-src/jse_scraper.egg-info/top_level.txt
