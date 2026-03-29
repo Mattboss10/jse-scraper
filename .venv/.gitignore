@@ -1,6 +1,5 @@
---- Python Artifacts ---
-
-pycache/
+# --- Python Artifacts ---
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
@@ -23,28 +22,24 @@ share/python-wheels/
 *.egg
 MANIFEST
 
---- Virtual Environments ---
-
+# --- Virtual Environments ---
 .venv/
 venv/
 ENV/
 env/
 
---- JSE Scraper Debug Files ---
-
+# --- JSE Scraper Debug Files ---
 debug_screenshot.png
 live_debug.png
 debug_source.html
 
---- IDEs and OS ---
-
+# --- IDEs and OS ---
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 
---- Testing ---
-
+# --- Testing ---
 .pytest_cache/
 .tox/
 .coverage
